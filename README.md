@@ -299,7 +299,15 @@ Group By Years
 
 ORDER By No_of_Employee Desc;
 
+**Conclusion**
 
+1.This project provides a comprehensive analysis of employee data, uncovering key insights into salary distribution, performance metrics, and leave patterns across various departments and countries.
+
+2.Through SQL queries, we identified top-performing departments, salary disparities, and employees with significant contributions or challenges, such as high overtime hours or leave usage.
+
+3.The analysis also explored retention trends and factors influencing employee turnover.
+
+4.These findings serve as a foundation for optimizing HR policies, enhancing employee productivity, and supporting strategic workforce planning with data-driven decisions.
 
 
 
